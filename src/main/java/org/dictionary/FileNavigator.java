@@ -1,4 +1,4 @@
-package org.dictionary.hw13;
+package org.dictionary;
 
 import java.util.*;
 
